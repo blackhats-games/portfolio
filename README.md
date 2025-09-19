@@ -6,4 +6,6 @@ I began exploring game development at the age of 12, and I am now almost 17. Ove
 What excites me the most is creating interactive stories where the player becomes the main character.  This interest also led me to writing books. I have been writing since the age of 13, but I completed my first serious book at 15. It took me over a year to finish "Games with time mechanics" and eventually publish it digitally.  
 
 ## Projects
-
+***Pixel Blackjack  - Spring 2024***
+[***Gamejolt Page***] (https://gamejolt.com/games/pixel_blackjack/887560)
+[***Repository Page***] (https://github.com/blackhats-games/Pixel-Blackjack)
