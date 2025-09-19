@@ -16,3 +16,5 @@ This project revolves around a single mechanic, but my main goal was to create s
 Making a mini-game felt like a fun and practical way to bring the idea to life.
 
 ![Screenshot 1](/assets/Pixel_Blackjack_1.png)
+![Screenshot 2](/assets/Pixel_Blackjack_2.png)
+![Screenshot 3](/assets/Pixel_Blackjack_3.png)
