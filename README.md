@@ -1,11 +1,13 @@
-# Game Developer, Book Author
+# Game Developer 💻, Book Author 📖, 3D Artist 🎨
 
-## About me
+## My Skills 🧠
 I began exploring game development at the age of 12, and I am now almost 17. Over the years, I have developed a strong interest in how interactive experiences can combine atmosphere, narrative, and gameplay. This passion has motivated me to continue improving my skills and pursue game development as both a creative and professional path.  
 
-What excites me the most is creating interactive stories where the player becomes the main character.  This interest also led me to writing books. I have been writing since the age of 13, but I completed my first serious book at 15. It took me over a year to finish "Games with time mechanics" and eventually publish it digitally.  
+What excites me the most is creating interactive stories where the player becomes the main character.  This interest also led me to writing books. I have been writing since the age of 13, but I completed my first serious book at 15. It took me over a year to finish "Games with time mechanics" and eventually publish it digitally.
 
-## Projects
+Furthermore, I have skills in 3D modeling using Blender. I am experienced in creating characters, buildings, and small props. After releasing my book, I occasionally sculpt characters from the story in a Low Poly style. I am familiar with sculpting, texturing and combining my creative and technical skills.
+
+## Game Projects 🎲
 ***Pixel Blackjack  - Spring 2024 -***
 [*Gamejolt Page*](https://gamejolt.com/games/pixel_blackjack/887560)
 [*Repository Page*](https://github.com/blackhats-games/Pixel-Blackjack)
