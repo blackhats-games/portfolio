@@ -1,4 +1,4 @@
-# Game Developer 💻 , Book Author 📖 , 3D Artist 🎨 
+## Game Developer 💻 , Book Author 📖 , 3D Artist 🎨 
 
 ## My Skills 🧠
 I began exploring game development at the age of 12, and I am now almost 17. Over the years, I have developed a strong interest in how interactive experiences can combine atmosphere, narrative, and gameplay. This passion has motivated me to continue improving my skills and pursue game development as both a creative and professional path.  
