@@ -14,3 +14,5 @@ What excites me the most is creating interactive stories where the player become
 
 This project revolves around a single mechanic, but my main goal was to create something I could actually release.  
 Making a mini-game felt like a fun and practical way to bring the idea to life.
+
+![Screenshot 1](/assets/Pixel_Blackjack_1.png)
