@@ -35,6 +35,7 @@ I wanted to prove to myself that I could bring an idea from concept to a finishe
 ![Screenshot 3](/assets/SilentCaller_3.png)
 
 ## ***Face on TV Chapter 1 (Demo)  - Summer 2025***
+*Melissa Hawkins checks into the Flamingo Resort, a remote motel in the Wyoming wilderness. There, she encounters an eerie face broadcasting on a channel that shouldn’t even exist. Is it just a glitch—or something far more sinister? On her way to uncover the truth, Melissa meets many people: some kind, others hostile, and some indifferent. Each of them has their own story to tell, and together their fates weave into a single thread that leads straight into real darkness...*
 
 ![Screenshot 1](/assets/FaceOnTV_1.png)
 ![Screenshot 2](/assets/FaceOnTV_5.png)
