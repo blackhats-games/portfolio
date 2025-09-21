@@ -25,7 +25,7 @@ Making a mini-game felt like a fun and practical way to bring the idea to life.
 ## ***Silent Caller  - Fall 2024***
 [*Gamejolt Page*](https://gamejolt.com/games/silent_caller/942515)
 
-*You wake up in a dimly lit, cluttered room, with no memory of how you got there. The only connection to the outside world is an old phone that suddenly starts ringing. On the other end of the line, a cold, unrecognizable voice speaks. This stranger knows far too much about you… and it seems they’re playing a deadly game. Solve puzzles, follow their cryptic instructions, and try to escape the nightmare you’re trapped in. But what if you’re just a pawn in a game where nothing you do matters? Can you uncover the truth before it’s too late?*
+*You play as Jeremy Stewart, who has been kidnapped on his way to a convenience store. Criminals keep him locked in a single room, where he receives constant phone calls. They trick him into believing there is hope and a chance to escape. Jeremy must solve puzzles and is forced into humiliating actions to earn this chance. But is there really a way out?*
 
 The main goal of developing Silent Caller was my desire to create a project that would be simultaneously concise, engaging, and fully released.  
 I wanted to prove to myself that I could bring an idea from concept to a finished product. This project helped me gain valuable experience in game design, storytelling, and polishing gameplay mechanics within a short format.  
@@ -33,3 +33,5 @@ I wanted to prove to myself that I could bring an idea from concept to a finishe
 ![Screenshot 1](/assets/SillentCaller_1.png)
 ![Screenshot 2](/assets/SilentCaller_2.png)
 ![Screenshot 3](/assets/SilentCaller_3.png)
+
+## ***Face on TV Chapter 1 (Demo)  - Summer 2025***
