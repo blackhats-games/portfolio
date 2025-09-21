@@ -8,7 +8,7 @@ What excites me the most is creating interactive stories where the player become
 Furthermore, I have skills in 3D modeling using Blender. I am experienced in creating characters, buildings, and small props. After releasing my book, I occasionally sculpt characters from the story in a Low Poly style. I am familiar with sculpting, texturing and combining my creative and technical skills.
 
 ## Game Projects 🎲
-***Pixel Blackjack  - Spring 2024 -***
+## ***Pixel Blackjack  - Spring 2024***
 [*Gamejolt Page*](https://gamejolt.com/games/pixel_blackjack/887560)
 [*Repository Page*](https://github.com/blackhats-games/Pixel-Blackjack)
 
@@ -20,3 +20,7 @@ Making a mini-game felt like a fun and practical way to bring the idea to life.
 ![Screenshot 1](/assets/Pixel_Blackjack_1.png)
 ![Screenshot 2](/assets/Pixel_Blackjack_2.png)
 ![Screenshot 3](/assets/Pixel_Blackjack_3.png)
+
+
+## ***Silent Caller  - Fall 2024***
+[*Gamejolt Page*](https://gamejolt.com/games/silent_caller/942515)
