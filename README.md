@@ -14,7 +14,7 @@ Furthermore, I have skills in 3D modeling using Blender. I am experienced in cre
 
 *Pixel Blackjack is a simplified version of the card game Blackjack, the essence of which is to collect cards in your hands, the sum of which will be close to 21, but not exceeding this number.*
 
-This project revolves around a single mechanic, but my main goal was to create something I could actually release.  
+This project revolves around a single mechanic and a few scripts. 
 Making a mini-game felt like a fun and practical way to bring the idea to life.
 
 ![Screenshot 1](/assets/Pixel_Blackjack_1.png)
@@ -24,3 +24,11 @@ Making a mini-game felt like a fun and practical way to bring the idea to life.
 
 ## ***Silent Caller  - Fall 2024***
 [*Gamejolt Page*](https://gamejolt.com/games/silent_caller/942515)
+*You wake up in a dimly lit, cluttered room, with no memory of how you got there. The only connection to the outside world is an old phone that suddenly starts ringing. On the other end of the line, a cold, unrecognizable voice speaks. This stranger knows far too much about you… and it seems they’re playing a deadly game. Solve puzzles, follow their cryptic instructions, and try to escape the nightmare you’re trapped in. But what if you’re just a pawn in a game where nothing you do matters? Can you uncover the truth before it’s too late?*
+
+The main goal of developing Silent Caller was my desire to create a project that would be simultaneously concise, engaging, and fully released.  
+I wanted to prove to myself that I could bring an idea from concept to a finished product. This project helped me gain valuable experience in game design, storytelling, and polishing gameplay mechanics within a short format.  
+
+![Screenshot 1](/assets/SillentCaller_1.png)
+![Screenshot 2](/assets/SilentCaller_2.png)
+![Screenshot 3](/assets/SilentCaller_3.png)
