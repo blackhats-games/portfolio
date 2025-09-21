@@ -24,6 +24,7 @@ Making a mini-game felt like a fun and practical way to bring the idea to life.
 
 ## ***Silent Caller  - Fall 2024***
 [*Gamejolt Page*](https://gamejolt.com/games/silent_caller/942515)
+
 *You wake up in a dimly lit, cluttered room, with no memory of how you got there. The only connection to the outside world is an old phone that suddenly starts ringing. On the other end of the line, a cold, unrecognizable voice speaks. This stranger knows far too much about you… and it seems they’re playing a deadly game. Solve puzzles, follow their cryptic instructions, and try to escape the nightmare you’re trapped in. But what if you’re just a pawn in a game where nothing you do matters? Can you uncover the truth before it’s too late?*
 
 The main goal of developing Silent Caller was my desire to create a project that would be simultaneously concise, engaging, and fully released.  
