@@ -48,4 +48,8 @@ Face On TV - мой пока незаконченный проект, котор
 ![Screenshot 3](/assets/FaceOnTV_2.png)
 ![Screenshot 1](/assets/FaceOnTV_3.png)
 ![Screenshot 1](/assets/FaceOnTV_4.png)
+![Screenshot 1](/assets/FaceOnTV_6.png)
+![Screenshot 1](/assets/FaceOnTV_7.png)
+![Screenshot 1](/assets/FaceOnTV_8.png)
+![Screenshot 1](/assets/FaceOnTV_9.png)
 
