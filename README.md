@@ -1,34 +1,32 @@
-## Game Developer, Book Author, 3D Artist 
+## Разработчик игр, Автор Книги, 3D Художник
 
-## My Skills 🧠
-I began exploring game development at the age of 12, and I am now almost 17. Over the years, I have developed a strong interest in how interactive experiences can combine atmosphere, narrative, and gameplay. This passion has motivated me to continue improving my skills and pursue game development as both a creative and professional path.  
+## Навыки 🧠
+Я начал заниматься разработкой игр в 12 лет, и сейчас мне почти 17. За это время у меня сформировался глубокий интерес к тому, как интерактивные проекты могут объединять атмосферу, повествование и геймплей. Эта страсть мотивировала меня продолжать совершенствовать свои навыки и рассматривать разработку игр не только как творческий процесс, но и как профессиональное направление.
 
-What excites me the most is creating interactive stories where the player becomes the main character.  This interest also led me to writing books. I have been writing since the age of 13, but I completed my first serious book at 15. It took me over a year to finish "Games with time mechanics" and eventually publish it digitally.
+Больше всего меня вдохновляет создание интерактивных историй, в которых игрок становится главным героем. Именно этот интерес привёл меня к писательству. Я начал писать книги с 13 лет, но свою первую серьёзную работу завершил только в 16. На написание книги «Игры со временем» у меня ушли продолжительные год и два месяца, после чего я её опубликовал в цифровом формате.
 
-Furthermore, I have skills in 3D modeling using Blender. I am experienced in creating characters, buildings, and small props. After releasing my book, I occasionally sculpt characters from the story in a Low Poly style. I am familiar with sculpting, texturing and combining my creative and technical skills.
+Кроме того, я обладаю навыками 3D-моделирования в Blender. Умею создавать персонажей, здания и небольшие объекты. После выхода книги я иногда моделирую своих персонажей в стиле Low Poly. Я знаком с процессами скульптинга, текстурирования и умею сочетать творческие и технические навыки в работе.
 
-## Game Projects 🎲
-## ***Pixel Blackjack  - Spring 2024***
-[*Gamejolt Page*](https://gamejolt.com/games/pixel_blackjack/887560)
-[*Repository Page*](https://github.com/blackhats-games/Pixel-Blackjack)
+## Игровые проекты 🎲
+## ***Pixel Blackjack  - Весна 2024***
+[*Gamejolt*](https://gamejolt.com/games/pixel_blackjack/887560)
+[*Repository*](https://github.com/blackhats-games/Pixel-Blackjack)
 
-*Pixel Blackjack is a simplified version of the card game Blackjack, the essence of which is to collect cards in your hands, the sum of which will be close to 21, but not exceeding this number.*
+*Pixel Blackjack — это упрощённая версия карточной игры «Блэкджек», суть которой заключается в том, чтобы набрать карты с суммой очков максимально близкой к 21, но не превышающей это число.*
 
-This project revolves around a single mechanic and a few scripts. 
-Making a mini-game felt like a fun and practical way to bring the idea to life.
+Проект хранит в себе лишь единственную механику, суть которой заключается в процессе накопления карт. Начиная разработку этой небольшой игры моей целью было создать что-то несложное и одновременно затягивающее, где игрок может просто залипнуть на какое-то время. В будущем планирую адаптировать игру под WEB, Android и IOS, чтобы опубликовать на таких площадках как Яндекс Игры, Google Play, App Store.
 
 ![Screenshot 1](/assets/Pixel_Blackjack_1.png)
 ![Screenshot 2](/assets/Pixel_Blackjack_2.png)
 ![Screenshot 3](/assets/Pixel_Blackjack_3.png)
 
 
-## ***Silent Caller  - Fall 2024***
-[*Gamejolt Page*](https://gamejolt.com/games/silent_caller/942515)
+## ***Silent Caller  - Осень 2024***
+[*Gamejolt*](https://gamejolt.com/games/silent_caller/942515)
 
-*You play as Jeremy Stewart, who has been kidnapped on his way to a convenience store. Criminals keep him locked in a single room, where he receives constant phone calls. They trick him into believing there is hope and a chance to escape. Jeremy must solve puzzles and is forced into humiliating actions to earn this chance. But is there really a way out?*
+*Вы играете за Джереми Стюарта, который был похищен на пути к 24-ёх часому магазину посреди ночи. Похитители удерживают Джереми в комнате стиля 80-ых, ему поступают бесконечные звонки с телефона, который является единственным способом связи. Они удверждают, что путь к свободе близок, и Джереми вот-вот снова окажется у себя дома. Однако, чтобы заслужить эту свободу, Джереми обязан решать запутанные головоломки и унижаться перед похитетелями, моля о пощаде. Но есть ли на самом деле та самая заветная свобода?*
 
-The main goal of developing Silent Caller was my desire to create a project that would be simultaneously concise, engaging, and fully released.  
-I wanted to prove to myself that I could bring an idea from concept to a finished product. This project helped me gain valuable experience in game design, storytelling, and polishing gameplay mechanics within a short format.  
+Моей главной целью при создании Silent Caller было объединить небольшой сюжет и геймплей, который я мог бы реализовать самостоятельно. Этот проект стал первым, где я использовал технологию HDRP (High Definition Render Pipeline). Разработка заняла всего 4 недели, что стало для меня неожиданностью: раньше мои проекты могли затягиваться на месяцы и в итоге оставаться лишь в корзине нереализованных идей. Silent Caller стал доказательством для самого себя, что я способен довести игру до полноценного релиза с логическим завершением и полностью реализованной изначальной концепцией. Работа над проектом дала мне ценный опыт в сторителлинге, геймдизайне и воплощении задуманных игровых механик.
 
 ![Screenshot 1](/assets/SillentCaller_1.png)
 ![Screenshot 2](/assets/SilentCaller_2.png)
