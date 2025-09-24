@@ -32,8 +32,10 @@
 ![Screenshot 2](/assets/SilentCaller_2.png)
 ![Screenshot 3](/assets/SilentCaller_3.png)
 
-## ***Face on TV Chapter 1 (Demo)  - Summer 2025***
-*Melissa Hawkins checks into the Flamingo Resort, a remote motel in the Wyoming wilderness. There, she encounters an eerie face broadcasting on a channel that doesn't even exist. Is it just a glitch—or something far more sinister? On her way to uncover the truth, Melissa meets many people: some kind, others hostile, and some indifferent. Each of them has their own story to tell, and together their fates weave into a single thread that leads straight into real darkness...*
+## ***Face on TV Chapter 1 (Demo)  - Лето 2025***
+*Мелисса Хоукинс заселяется в мотель Flamingo Resort, затерянный в глуши Вайоминга. Она натыкается на жуткой лицо, которое транслируется на несуществующем канале. Ошибка ли это, либо же что-то, за чем стоит настоящий ужас? На пути к разгадке Мелисса встречает самых разных людей: некоторые настроены дружелюбно, некоторые агрессивно, а некоторым просто все равно. У каждого из них есть свои мотивы, цели, переживания, травмы и самый ценный жизненный опыт. По одной лишь случайности их судьбы сплетаются в тугой клубок, из которого уже невозможно выбраться. Мелиссе предстоит раскрыть эту завесу тайны, за которой прячутся истинные лица и намерения. Далеко не все смогут преодолеть весь этот кошмар...
+
+ПОТОМУ ЧТО ОЧЕНЬ ТРУДНО ВЫЙТИ ЖИВЫМ ИЗ КРОВАВОЙ БАНИ*
 
 ![Screenshot 1](/assets/FaceOnTV_1.png)
 ![Screenshot 2](/assets/FaceOnTV_5.png)
