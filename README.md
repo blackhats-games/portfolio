@@ -135,4 +135,6 @@ Face On TV - мой пока незаконченный проект, котор
 ![screenshot](/assets/Kitchen.png)
 ![screenshot](/assets/Living_Room.png)
 ![screenshot](/assets/LowPoly_Orange_Cat.png)
+![screenshot](/assets/Realistic_Wardrobe.png)
+![screenshot](/assets/Edvard_Richardsonn.png)
 
