@@ -128,4 +128,11 @@ Face On TV - мой пока незаконченный проект, котор
 ![screenshot](/assets/Cafe_Paper_Cup_Day.png)
 ![screenshot](/assets/Bed.png)
 ![screenshot](/assets/Bedroom.png)
+![screenshot](/assets/Piano.png)
+![screenshot](/assets/Nasa_Logo.png)
+![screenshot](/assets/Microsoft_Store.png)
+![screenshot](/assets/Motorcycle.png)
+![screenshot](/assets/Kitchen.png)
+![screenshot](/assets/Living_Room.png)
+![screenshot](/assets/LowPoly_Orange_Cat.png)
 
