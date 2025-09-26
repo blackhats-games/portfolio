@@ -120,7 +120,9 @@ Face On TV - мой пока незаконченный проект, котор
 
 Помимо написания книг и разработки игр, у меня также есть навыки в работе с 3D графикой в Blender. За все время я пробовал разные стили графики, разные виды 3D моделей и в целом разные подходы к моделированию. Я как персонажей, так и обычные сооружения или предметы. Последним своим моделям персонажей я даже создавал риг в виде скелета для настройки позы.
 
-![Screenshot 1](/assets/characters_book.png)
+![Screenshot 1](/assets/johanna.png)
+![Screenshot 1](/assets/shizuka.png)
+![Screenshot 1](/assets/myers.png)
 ![screenshot](/assets/Joseph_Machinarium.png)
 ![screenshot](/assets/Runner_blade.png)
 ![screenshot](/assets/Whiskey_Realistic.png)
