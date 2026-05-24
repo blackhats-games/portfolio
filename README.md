@@ -88,7 +88,7 @@ P.S Так как это демо версия, я до конца не доба
 ## Книга "Игры со временем" - детектив, триллер, криминал, фантастика, приключения 📖
 
 [*Книга на ЛитРес*](https://www.litres.ru/book/daniel-bulgakov/igry-so-vremenem-72132994/)
-[*PDF Книги*](/assets/mockup.png)
+[*PDF Книги*](MyBook.pdf)
 
 ![Screenshot 1](/assets/mockup.png)
 
